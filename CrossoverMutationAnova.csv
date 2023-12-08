@@ -1,0 +1,5 @@
+,sum sq,df,F,PR(greater than F)
+Crossover Operator,0.0003754,2.0,4.49,0.01246
+Mutation Operator,0.0004754,1.0,11.38,0.0009111
+Crossover Operator:Mutation Operator,6.276e-05,2.0,0.7517,0.4730
+Residual,0.007264,174.0, NaN, NaN

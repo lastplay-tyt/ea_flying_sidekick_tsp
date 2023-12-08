@@ -1,0 +1,7 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+HeuristicN,HeuristicY,-0.0,0.0104,-0.0001,-0.0,True
+HeuristicN,RandomN,0.0001,0.0,0.0,0.0001,True
+HeuristicN,RandomY,0.0,0.001,0.0,0.0001,True
+HeuristicY,RandomN,0.0001,0.0,0.0001,0.0001,True
+HeuristicY,RandomY,0.0001,0.0,0.0,0.0001,True
+RandomN,RandomY,-0.0,0.8121,-0.0,0.0,False
